@@ -1,2 +1,3 @@
 Build/Kee[[:space:]]Safety.wasm filter=lfs diff=lfs merge=lfs -text
 Build/Build.data filter=lfs diff=lfs merge=lfs -text
+Build/Build.data.gz filter=lfs diff=lfs merge=lfs -text
